@@ -1,4 +1,3 @@
-This file isn't even sql.
-
-WTF, man?
+select "Now this file is sql."
+go
 

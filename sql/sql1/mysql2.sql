@@ -1,4 +1,5 @@
-Here's another non sql file.
+select "Here's another non sql file."
 
-That's two for two.
+select "That's two for two."
+go
 
